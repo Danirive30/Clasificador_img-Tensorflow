@@ -1,8 +1,6 @@
 # Clasificación de Imágenes: Perros y Gatos
 
-Este proyecto te permite crear un clasificador de imágenes para identificar si una imagen corresponde a un perro o un gato. Utiliza Python, TensorFlow y TensorFlow.js para entrenar el modelo de IA y luego ejecutarlo en un sitio web accesible desde cualquier navegador, incluyendo dispositivos móviles.
-
-Este repositorio es un complemento al video de Ringa Tech en YouTube sobre la creación de un clasificador de perros y gatos usando Python y TensorFlow.
+Este proyecto permite crear un clasificador de imágenes para identificar si una imagen corresponde a un perro o un gato. Utiliza Python, TensorFlow y TensorFlow.js para entrenar el modelo de IA y luego ejecutarlo en un sitio web accesible desde cualquier navegador, incluyendo dispositivos móviles.
 
 ## Tecnologías utilizadas
 - **Python**: para entrenar el modelo de clasificación.
@@ -59,13 +57,9 @@ El modelo de IA se entrena con imágenes de perros y gatos y luego se exporta en
 - **El modelo no clasifica bien:**
   Si el modelo no está clasificando correctamente las imágenes, ten en cuenta que es un modelo básico entrenado con un conjunto limitado de imágenes. Puedes entrenarlo con más datos o ajustar los parámetros para mejorar la precisión.
 
-### Contribuciones
-
-Si encuentras algún problema, por favor regístralo en el repositorio de GitHub o deja un comentario en el video de YouTube. Asegúrate de revisar la consola de desarrollador en tu navegador para obtener más detalles sobre el error.
-
 ### Licencia
 
-Este proyecto está bajo la licencia MIT. Puedes usarlo y modificarlo según tus necesidades, pero recuerda dar el crédito adecuado.
+Este proyecto está bajo la licencia MIT.
 
 
 # Clasificador_img-Tensorflow
